@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cannon Ball Animation</string>
+    <string name="fire_button_text">FIRE CANNON</string>
+    <string name="seekbar_label">ANGLE: 45</string>
+</resources>
